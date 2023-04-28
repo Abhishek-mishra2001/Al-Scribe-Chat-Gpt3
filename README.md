@@ -1,4 +1,4 @@
-# Al-Scribe-Chat-Gpt3
+# AI-Scribe: The ChatGPT-Powered SEO Content Creation Wizard
 I have Create Al-Scribe Chat Gpt3 wordpress plugin
 Welcome to AI-Scribe, the ultimate ChatGPT-powered content creation wizard. AI-Scribe will take your writing to the next level using AI engines like GPT-3, GPT-3.5 Turbo or GPT-4 from OpenAI, the same ones behind the famous ChatGPT tool.
 
